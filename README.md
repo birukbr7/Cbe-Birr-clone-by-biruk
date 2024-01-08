@@ -1,6 +1,8 @@
           CBEBirr App Clone
 This Flutter project is a clone of the CBEBirr app, aiming to replicate its functionality and design using Flutter and Dart programming language.
 
+![Screenshot_1704714244](https://github.com/birukbr7/Cbe-Birr-clone-by-biruk/assets/106627959/b890561b-23c8-49a1-9ec1-d8a172a9cea3)
+
 Project Overview
 The CBEBirr app clone utilizes various Flutter packages to create a user-friendly and visually appealing application. The main features and components of the app include:
 
@@ -15,7 +17,7 @@ Animated Text Kit: Engaging animations for text elements are achieved using the 
 Carousel Slider: The app utilizes the carousel_slider package (version 4.2.1) to implement a carousel slider, enabling the display of content in a visually appealing and interactive manner.
 
 Dots Indicator: For indicating the current position in the carousel, the dots_indicator package (version 3.0.0) is integrated, providing a visual cue to the user.
-![Uploading Screenshot_1704710558.png…]()
+
 
 Installation
 To run this Flutter project on your local machine, follow these steps:
