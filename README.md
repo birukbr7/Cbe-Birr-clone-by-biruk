@@ -15,6 +15,7 @@ Animated Text Kit: Engaging animations for text elements are achieved using the 
 Carousel Slider: The app utilizes the carousel_slider package (version 4.2.1) to implement a carousel slider, enabling the display of content in a visually appealing and interactive manner.
 
 Dots Indicator: For indicating the current position in the carousel, the dots_indicator package (version 3.0.0) is integrated, providing a visual cue to the user.
+![Uploading Screenshot_1704710558.png…]()
 
 Installation
 To run this Flutter project on your local machine, follow these steps:
