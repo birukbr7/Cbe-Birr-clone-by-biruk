@@ -20,25 +20,24 @@ Carousel Slider: The app utilizes the carousel_slider package (version 4.2.1) to
 Dots Indicator: For indicating the current position in the carousel, the dots_indicator package (version 3.0.0) is integrated, providing a visual cue to the user.
 
 
-Installation
+**Installation**
 To run this Flutter project on your local machine, follow these steps:
 
-Clone the Repository:
-
+**Clone the Repository:
+**
 
 git clone https://github.com/your-username/CBEBirr-App-Clone.git
 
 
 
-Install Dependencies:
-
+**Install Dependencies:
+**
 flutter pub get
 
 
 
-Run the Application:
-
-
+**Run the Application:
+**
 flutter run
 
 Additional Notes
